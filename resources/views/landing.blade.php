@@ -7,8 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>SiRestu | Formulir Pengajuan Cuti</title>
-    <meta name="description" content="Formulir Pengajuan Cuti, Bagian Organisasi, Sekretariat Daerah Kabupaten Magetan" />
-    <meta name="author" content="Bagian Organisasi Sekretariat Daerah Kabupaten Magetan" />
+    <meta name="description" content="Formulir Pengajuan Cuti, Kementerian Agama Kabupaten Pasuruan" />
+    <meta name="author" content="Kementerian Agama Kabupaten Pasuruan" />
     <link href="landing-assets/images/favicon.ico" rel="shortcut icon">
     <link href="landing-assets/css/icons.min.css" rel="stylesheet" type="text/css">
     <link href="landing-assets/libs/jarallax/jarallax.min.css" rel="stylesheet">
